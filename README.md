@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Nader 👋
 
-<!--
-**devnadersayed/devnadersayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Future Data Engineer
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into actionable insights and building scalable data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Pandas
+- NumPy
+
+### Currently Learning
+
+- Advanced SQL
+- Data Engineering
+- Apache Spark
+- Apache Airflow
+
+### Featured Projects
+
+- Sales Analysis
+- Customer Segmentation (RFM)
+- HR Analytics
+- SQL Business Analysis
+- Power BI Dashboards
+
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+- Python
+- C++
+- Js
+
+### Connect with Me
+
+LinkedIn: Your_Linkedin
+
+Email: nader9sayed@gmail.com
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
